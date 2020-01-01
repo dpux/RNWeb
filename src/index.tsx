@@ -7,7 +7,7 @@ const App = () => {
   return (
     <View style={styles.container}>
       <View style={styles.center}>
-        <Text>Hello React Native!!!</Text>
+        <Text>React Native</Text>
       </View>
     </View>
   );
