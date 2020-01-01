@@ -12,7 +12,6 @@ const App = () => {
     </View>
   );
 };
-
 const styles = StyleSheet.create({
   container: {
     height,
@@ -23,5 +22,4 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
 });
-
 export default App;
