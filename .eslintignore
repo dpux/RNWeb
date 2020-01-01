@@ -1,0 +1,7 @@
+build/*.js
+config/*.js
+bower_components/foo/*.js
+web/*
+coverage
+dist
+node_modules
